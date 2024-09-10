@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citizen Facilitator", "Citizen Facilitator.csproj", "{910611CA-7352-4103-A684-F1B6A5289AF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910611CA-7352-4103-A684-F1B6A5289AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910611CA-7352-4103-A684-F1B6A5289AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910611CA-7352-4103-A684-F1B6A5289AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910611CA-7352-4103-A684-F1B6A5289AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB5AAF3E-7C75-40CD-8CEC-5F55CAB0D261}
+	EndGlobalSection
+EndGlobal
