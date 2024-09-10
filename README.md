@@ -62,7 +62,7 @@ Allows users to report issues by specifying location, category, and description.
    Interface for providing feedback with fields for name, email, comments, and suggestions.
 
 ## Feedback Submission ##
-   ![image](https://github.com/user-attachments/assets/470c184e-813e-4a30-a047-41c077c7704e)
+
 
  Shows the interface after feedback has been submitted with a message .
 
