@@ -17,10 +17,9 @@ This Service application is a  Windows Forms application developed using C# on t
 
 -NET Framework
 
--Install NuGet Packages
-
 
 ## NuGet packages
+None
 
 ## Installation
 
